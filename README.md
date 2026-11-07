@@ -7,7 +7,7 @@ A hands-on cybersecurity portfolio built around one real, isolated home lab
 Every later project builds on that same lab rather than starting from scratch, so the
 network diagrams and IP addresses stay consistent project to project.
 
-> **Disclaimer:** This portfolio uses a fictional organization, **Ubuntu Public
+> **Disclaimer:** This portfolio uses a fictional organisation, **Ubuntu Public
 > Services**. All scenarios, IP schemas, and risk ratings are synthetic and built for
 > demonstration.
 
